@@ -1,1 +1,1 @@
-Project for chat costing chatbot
+Project for chat-based job costing 
